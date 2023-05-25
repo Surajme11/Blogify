@@ -2,6 +2,9 @@
 
 In the project directory, you can run:
 
+First have to install node module :
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -21,7 +24,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-### `npm run eject`
 
 ### `npm run build` fails to minify
